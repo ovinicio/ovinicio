@@ -7,7 +7,7 @@
 
 [![Linkedin: ovinicio](https://img.shields.io/badge/-ovinicio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicio-cassimiro/)](https://www.linkedin.com/in/vinicio-cassimiro/)
 <a href="mailto:vinicio.cassimiro@gmail.com"> 
-  <img src= "https://img.shields.io/badge/-<bGMAIL/>-red" />
+  <img src= "https://img.shields.io/badge/-GMAIL-red" />
 
 
 
