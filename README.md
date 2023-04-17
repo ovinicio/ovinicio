@@ -14,7 +14,7 @@
 
 
 ```javascript
-const thai = {
+const vinicio = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Styled-Components, MySQL ],
