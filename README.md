@@ -5,12 +5,12 @@
 <p><em>FullStack developper at <a href="http://www.labenu.com.br">Labenu</a></em></p>
 
 <div style="display: inline-block> <br>
-[![Linkedin: vinicio](https://img.shields.io/badge/-vinicio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicio-cassimiro/)](https://https://www.linkedin.com/in/vinicio-cassimiro/)
-                                                                                                          
-<a href="mailto:vinicio.cassimiro@gmail.com"> 
+<a href = "https://www.linkedin.com/in/bruna-carvalho-4a18a023a/"> 
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
+<a href="mailto:brunacarvalho260697@gmail.com"> 
 <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
-
 
 
 
