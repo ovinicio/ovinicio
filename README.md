@@ -30,10 +30,7 @@ src="https://github-readme-stats.vercel.app/api?username=ovinicio&show_icons=tru
 <img  width="48%" 
 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ovinicio&layout=compact&langs_count=16&theme=dracula" />
 </div>
-<div style="display: inline-block"><br>
-  <img src="https://skillicons.dev/icons?i=react,css,html,js,ts,styledcomponents,nodejs,vscode,mysql,java,&perline=10" />
- 
-</div>
+
 ---
 
 
