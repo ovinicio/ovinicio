@@ -18,7 +18,7 @@
 ```javascript
 const vinicio = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, NodeJS],
   tools: [React, Styled-Components, MySQL ],
 
 
